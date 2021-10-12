@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nka61oewvecv9o4b?svg=true)](https://ci.appveyor.com/project/AleksandrSamsonov/aqa-lesson-4)
